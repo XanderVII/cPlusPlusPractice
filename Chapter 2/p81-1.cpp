@@ -14,9 +14,12 @@ using namespace std;
 // Main Body
 int main()
 {
+	
+	//variables
 	int one = 62;
 	int two = 99;
 	int sum = one + two;
 	
+	// print out sum of integers
 	cout << sum << endl;	
 }
